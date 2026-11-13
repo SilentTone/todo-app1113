@@ -84,3 +84,4 @@ Phase 2（コマ8〜）からは、この TODO アプリに Jest と React Testi
 
 pepito
 pipitor
+Pipino
